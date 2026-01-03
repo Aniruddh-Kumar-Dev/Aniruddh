@@ -16,9 +16,9 @@ I'm a student developer passionate about Python, AI systems, and automation.
 - Ai Automation
 - Git & GitHub
 
-### 🎯 Goals
+###  Goals
 - Build real-world AI systems
 - Crack IIT
 
-📫 Connect with me on LinkedIn: www.linkedin.com/in/aniruddh-kumar-5730413a4
+ Connect with me on LinkedIn: www.linkedin.com/in/aniruddh-kumar-5730413a4
 
